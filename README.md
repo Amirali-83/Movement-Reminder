@@ -19,7 +19,7 @@ Take short walks to boost circulation
 Perform office stretches to relieve tension
 Rest your eyes using the 20-20-20 rule
 
-✨ **Key Features**
+## ✨ **Key Features**
 
 🎯 **Customizable Timers**
 
