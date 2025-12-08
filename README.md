@@ -23,10 +23,10 @@ Rest your eyes using the 20-20-20 rule
 
 🎯 **Customizable Timers**
 
-Sitting Duration: Configure your work session length (default: 45 minutes)
-Standing Duration: Set standing break length (default: 10 minutes)
-Walking Duration: Define walking break time (default: 5 minutes)
-Flexible Phases: Enable or disable standing and walking phases based on your preferences
+- Sitting Duration: Configure your work session length (default: 45 minutes)
+- Standing Duration: Set standing break length (default: 10 minutes)
+- Walking Duration: Define walking break time (default: 5 minutes)
+- Flexible Phases: Enable or disable standing and walking phases based on your preferences
 
 📊 **Activity Tracking**
 Real-time tracking of daily sitting, standing, and walking minutes
