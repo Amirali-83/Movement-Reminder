@@ -29,39 +29,34 @@ Rest your eyes using the 20-20-20 rule
 - Flexible Phases: Enable or disable standing and walking phases based on your preferences
 
 📊 **Activity Tracking**
-Real-time tracking of daily sitting, standing, and walking minutes
+- Real-time tracking of daily sitting, standing, and walking minutes
 Visual pie chart showing your activity distribution
 Comprehensive statistics to monitor your movement habits
 
 🎨 **Professional UI/UX**
-
-Modern, clean dashboard design
-Animated hourglass timer with smooth sand flow
-Color-coded phase indicators
-Responsive layout that works on any screen size
-Scrollable interface for smaller displays
+- Modern, clean dashboard design Animated hourglass timer with smooth sand flow Color-coded phase indicators Responsive layout that works on any screen size Scrollable interface for smaller displays
 
 🔔 **Smart Notifications**
 
-Multi-monitor support (notifications appear on all screens)
-Non-intrusive phase change alerts
-Options to accept, skip, or restart phases
-Automatic detection of screen sharing (auto-accepts to avoid disruptions during presentations)
+- Multi-monitor support (notifications appear on all screens)
+- Non-intrusive phase change alerts
+- Options to accept, skip, or restart phases
+- Automatic detection of screen sharing (auto-accepts to avoid disruptions during presentations)
 
 🤸 **Health Resources**
 
-Office Stretches Guide: Visual reference for desk-appropriate stretches
-Eye Rest Exercises: Implementation of the 20-20-20 rule (every 20 minutes, look at something 20 feet away for 20 seconds)
-Zoomable image viewers with pan and scroll support
+- Office Stretches Guide: Visual reference for desk-appropriate stretches
+- Eye Rest Exercises: Implementation of the 20-20-20 rule (every 20 minutes, look at something 20 feet away for 20 seconds)
+- Zoomable image viewers with pan and scroll support
 
 💻 **Windows-Specific Features**
 
-One-click screen lock integration
-"Lock & Walk" feature for secure breaks
-Screen sharing detection to prevent disruptions
+- One-click screen lock integration
+- "Lock & Walk" feature for secure breaks
+- Screen sharing detection to prevent disruptions
 
 💾 **Persistent Settings**
 
-Automatic saving of all preferences
-Settings persist across sessions
-Stored in user's home directory
+- Automatic saving of all preferences
+- Settings persist across sessions
+- Stored in user's home directory
