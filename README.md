@@ -1,4 +1,4 @@
-# Movement Reminder 🧍🚶💺
+# Movement Reminder 🚶
 
 A professional desktop application designed to promote healthy movement habits for ESMT Berlin colleagues during long work sessions
 
