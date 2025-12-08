@@ -2,7 +2,7 @@
 
 A professional desktop application designed to promote healthy movement habits for ESMT Berlin colleagues during long work sessions
 
-**📋 Overview**
+## **📋 Overview**
 Movement Reminder is a beautifully designed health and wellness application that helps you maintain an active lifestyle while working at your desk. Built specifically for the ESMT Berlin community, it encourages regular movement breaks through customizable timers and helpful visual reminders.
 Why Movement Matters
 Research shows that prolonged sitting can lead to:
