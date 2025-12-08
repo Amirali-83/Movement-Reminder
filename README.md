@@ -20,6 +20,7 @@ Perform office stretches to relieve tension
 Rest your eyes using the 20-20-20 rule
 
 ✨ Key Features
+
 🎯 Customizable Timers
 
 Sitting Duration: Configure your work session length (default: 45 minutes)
