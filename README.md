@@ -60,3 +60,8 @@ Comprehensive statistics to monitor your movement habits
 - Automatic saving of all preferences
 - Settings persist across sessions
 - Stored in user's home directory
+
+
+![Interface_1](./Interface_1.png)
+![Interface_2](./Interface_2.png)
+![walk_time_Notification](./walk_time_Notification.png)
