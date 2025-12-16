@@ -61,7 +61,8 @@ Comprehensive statistics to monitor your movement habits
 - Settings persist across sessions
 - Stored in user's home directory
 
-
+- Interfaces
 ![Interface_1](./Interface_1.png)
 ![Interface_2](./Interface_2.png)
+- Walk time Notification
 ![walk_time_Notification](./walk_time_Notification.png)
